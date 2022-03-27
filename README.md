@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HieuNguyen-Minh
+- 👋 Hi, I’m Hieu Nguyen
 - 👀 I’m interested in Data Analytics & Data Science
 - 🌱 I’m currently learning Data Analysis & Business Intelligence
 - 💞️ I’m looking to collaborate on ...
